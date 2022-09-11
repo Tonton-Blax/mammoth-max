@@ -24,6 +24,7 @@
     "lop": "^0.4.1",
     "path-is-absolute": "^1.0.0",
     "sax": "~1.1.1",
+    "tinycolor2": "^1.4.2",
     "underscore": "^1.13.1",
     "xmlbuilder": "^10.0.0"
   },
